@@ -2,7 +2,7 @@
     "items": [
       {
         "product_url": "iphonese",
-        "product_img": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_new-iphone-se-white_04152020_big.jpg.large.jpg",
+        "product_img": "/Iphone Se.jpg",
         "product_link": "https://www.apple.com/shop/buy-iphone/iphone-11",
         "product_name": "iPhone SE",
         "product_brief_description": "Lots to love. Less to spend.",
@@ -12,7 +12,7 @@
       },
       {
         "product_url": "iphone11",
-        "product_img": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone_11-rosette-family-lineup-091019_big.jpg.large.jpg",
+        "product_img": "/10001.jpg",
         "product_link": "https://www.apple.com/shop/buy-iphone/iphone-11",
         "product_name": "iPhone 11",
         "product_brief_description": "Lots to love. Less to spend.",
@@ -22,7 +22,7 @@
       },
       {
         "product_url": "iphone11pro",
-        "product_img": "https://www.apple.com/newsroom/images/product/iphone/lifestyle/Apple_iPhone-11-Pro_Most-Powerful-Advanced_091019_big.jpg.large.jpg",
+        "product_img": "/iphone 11 pro.jpg",
         "product_link": "https://www.apple.com/shop/buy-iphone/iphone-11-pro",
         "product_name": "iPhone 11 Pro",
         "product_brief_description": "Pro cameras. Pro display. Pro performance.",
